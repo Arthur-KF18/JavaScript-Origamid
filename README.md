@@ -7,4 +7,4 @@
 - Todos os arquivos terão um __Readme próprio__ e com suas informações e configurações baseadas nas aulas e todo o conteúdo abordado, assim como projetos e diferentes lógicas
 ---
 ### Repositórios presentes no documento:
-- link: [Apresentação da Formação JavaScript Developer]()
+- link: [JS-Completo-ES6]()
